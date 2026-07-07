@@ -1,7 +1,7 @@
 {
   "heartbeat": {
-    "last_dispatch": "2026-07-07T15:20:17Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-07-07T17:31:22Z",
+    "last_status": "dispatched",
     "last_failed": "2026-07-07T15:20:34Z",
     "total_runs": 281,
     "total_successes": 0,
